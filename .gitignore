@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.gbs
+*.gko
+*.gtl
+Nexa/gerbers/nexa-1_0-gerbers_updt/Nexa-F.SilkS.gto
+*.gts
+*.gtp
+Nexa/gerbers/Nexa-B.Paste.gbp
+*.gbl
+Nexa/gerbers/nexa-1_0-gerbers_updt/Nexa-B.SilkS.gbo
