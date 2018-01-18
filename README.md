@@ -3,10 +3,10 @@
 ### What is Nexa-Board?
 Nexa-Board is an open source project, based on STM32F103 microcontroller.
 Hardware characteristics
-•	72 MHz
-•	Full duplex RS-485 fully configurable.
-•	Xx GPIO pins
-•	Power polarity protection
+-	72 MHz
+-	Full duplex RS-485 fully configurable.
+-	Xx GPIO pins
+-	Power polarity protection
 
 Software
 
