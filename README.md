@@ -1,4 +1,5 @@
-# Nexa-Board
+# Nexa-Board ![version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+
 Nexa-Board is an open source project, based on STM32F103 microcontroller.
 
 ### What is Nexa-Board?
