@@ -30,7 +30,7 @@ Software characteristics
 ### Project that use Nexa-Board
 
 
-### TODO
+### TODO ![status](https://img.shields.io/badge/Status-HW--Test-orange.svg)
 - [x] Board design (Schematic)
 - [x] Board design (PCB)
 - [x] PCB manufacture
