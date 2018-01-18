@@ -19,13 +19,7 @@ Software characteristics
 
 
 ### Getting Started/Requirements/Prerequisites/Dependencies
-- Getting it
 
-- Installing It
-
-- Configuring It
-
-- Running it
 
 ### Project that use Nexa-Board
 
@@ -37,8 +31,8 @@ Software characteristics
 - [ ] HW test
 - [ ] Software
 
-### Contact
-- 
+### Releases
+![release-v1_0-shield](https://img.shields.io/badge/release-1.0-blue.svg) | [v1.0](https://github.com/KarlVaello/Nexa-Board/releases/tag/v1.0) - Initial complete board concept
 
 ### License
 -
