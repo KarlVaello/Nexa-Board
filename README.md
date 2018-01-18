@@ -23,11 +23,11 @@ Software
 
 
 ### TODO
-- [] Board design (Schematic)
-- [] Board design (PCB)
-- [] PCB manufacture
-- [] HW test
-- [] Software
+- [x] Board design (Schematic)
+- [x] Board design (PCB)
+- [x] PCB manufacture
+- [ ] HW test
+- [ ] Software
 
 ### Contact
 - 
