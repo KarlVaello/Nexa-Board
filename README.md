@@ -1,4 +1,3 @@
-# Nexa-Board !
 <p align="center">
   <img width="382" height="155" src="https://github.com/KarlVaello/Nexa-Board/blob/master/Other/Graphics/nexa_LOGO.png">
 </p>
