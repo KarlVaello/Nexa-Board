@@ -1,7 +1,14 @@
-# Nexa-Board ![version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+# Nexa-Board !
+<p align="center">
+  <img width="382" height="155" src="https://github.com/KarlVaello/Nexa-Board/blob/master/Other/Graphics/nexa_LOGO.png">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg">
+</p>
 
 ### What is Nexa-Board?
-Nexa-Board is an open source project, based on STM32F103 microcontroller.
+Nexa-Board is an open source project, based on STM32F103 microcontroller with a full duplex RS-485 to create a multipoint network that allows receiving and sending the information of all the boards.
+RS-485 as a physical layer and by programming you can set your own data exchange and interpretation protocol.
 
 Hardware characteristics
 -	72 MHz
@@ -12,10 +19,10 @@ Hardware characteristics
 -	Power input polarity protection
 
 ### Why does it exist ?
+Exist as a solution to get a fully configurable comunication protocol, that allow you to create your own protocol depending on your needs.
 
-
-### Getting Started/Requirements/Prerequisites/Dependencies
-
+### Getting Started
+- Get a Nexa Board
 
 ### Project that use Nexa-Board
 - Nexa Home
