@@ -36,4 +36,4 @@ Exist as a solution to get a fully configurable comunication protocol, that allo
 ![release-v1_0-shield](https://img.shields.io/badge/release-1.0-blue.svg) | [v1.0](https://github.com/KarlVaello/Nexa-Board/releases/tag/v1.0) - Initial complete board concept
 
 ### License
--
+- [GPL-3.0](https://github.com/KarlVaello/Nexa-Board/blob/master/LICENSE.md)
